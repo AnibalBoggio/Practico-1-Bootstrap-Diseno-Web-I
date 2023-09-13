@@ -2,6 +2,10 @@
   font-size: 13px;
 }
 
+.minw-85 {
+  min-width: 85%;
+}
+
 .scale-hover:hover {
   transition: transform 0.3s;
   transform: scale(1.1);
