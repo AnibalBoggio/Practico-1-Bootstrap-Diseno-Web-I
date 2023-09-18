@@ -2,6 +2,10 @@
   min-width: 85%;
 }
 
+.minw-75 {
+  min-width: 75%;
+}
+
 .scale-hover:hover {
   transition: transform 0.3s;
   transform: scale(1.1);
